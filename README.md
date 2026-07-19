@@ -1,4 +1,4 @@
-<img width="1920" height="640" alt="banner" src="https://github.com/user-attachments/assets/c3927c73-c8d6-42fa-a458-59afa03df79d" />
+<img width="1546" height="423" alt="banner" src="https://github.com/user-attachments/assets/c3927c73-c8d6-42fa-a458-59afa03df79d" />
 
 <h1 align="center">Mohamad Yousup S</h1>
 
