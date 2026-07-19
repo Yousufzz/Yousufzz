@@ -1,31 +1,156 @@
-# 💫 About Me:
-**About Me**<br><br>I am a Bachelor of Science graduate in Information Technology with a strong interest in software development, web technologies, and problem-solving. I enjoy building practical applications, learning new technologies, and improving my technical skills through projects and continuous learning. I am eager to contribute to innovative solutions while growing as a software developer.<br>
+<h1 align="center">Mohamad Yousup S</h1>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Information+Technology+Undergraduate;Java+Full+Stack+Developer;Frontend+Developer;Software+Developer;AI-Powered+Development+Enthusiast" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_yousufzz/?hl=en#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mohamadyousup) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Wooden2006) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yousufyousuf2652@gmail.com) 
+<h3 align="center">Java Full Stack Developer | Frontend Developer | Software Development Enthusiast</h3>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Yousufzz&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Yousufzz&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Yousufzz&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Yousufzz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Yousufzz&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+🎓 B.Sc. Information Technology <br>
+🏫 Dr. N.G.P. Arts and Science College, Coimbatore <br>
+📅 Expected Graduation: 2027 <br>
+📈 CGPA: 6.7 / 10.0 <br>
+📍 Coimbatore, Tamil Nadu, India
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Yousufzz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/MohamedY741) 
+# 🚀 About Me
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 💻 Passionate about Software Development and Web Technologies
+- ☕ Skilled in Java, Spring Boot, HTML, CSS, JavaScript & MySQL
+- 🤖 Leveraging AI-powered tools to improve productivity and code quality
+- 🌱 Currently exploring Spring Boot, REST APIs and Modern Web Development
+- 🎯 Aspiring Software Developer & Full Stack Java Developer
+
+---
+
+# 🛠️ Tech Stack
+
+## Languages
+Java • Python • C • C++ • JavaScript
+
+## Frontend
+HTML5 • CSS3 • JavaScript
+
+## Backend
+Java • Spring Boot • REST API
+
+## Database
+MySQL • SQL
+
+## Tools
+Git • GitHub • VS Code • IntelliJ IDEA • Eclipse • Postman • XAMPP • Apache Tomcat • Figma • Vercel
+
+## Core Subjects
+Data Structures • Object-Oriented Programming • DBMS • Computer Networks • Software Engineering • Web Technologies
+
+---
+
+# 📂 Featured Projects
+
+## 📌 Interactive Quiz Question Management & Assessment Platform
+
+- Java Full Stack Application
+- HTML, CSS & JavaScript
+- MySQL Database
+- Online Quiz Management
+- Automatic Score Evaluation
+
+---
+
+## 📌 Student Login System
+
+- Java & Spring Boot
+- REST API
+- User Authentication
+- MySQL Integration
+
+---
+
+## 📌 VIPER Custom T-Shirt Website
+
+- Responsive Landing Page
+- HTML • CSS • JavaScript
+- Modern UI Design
+- WhatsApp Order Integration
+
+---
+
+# 💼 Internship
+
+### Full Stack Java Intern
+**EMGLITZ Technologies**
+
+- Developed web applications using Java, HTML, CSS, and MySQL.
+- Built responsive user interfaces and backend functionalities.
+- Applied Object-Oriented Programming concepts in real-world projects.
+
+---
+
+# 🏆 Publications & Presentations
+
+### 📖 Publication
+- Published a Book Chapter titled **"Unguided Transmission Media: Types, Characteristics, Applications and Security"**
+  in *Frontiers in Multidisciplinary Research Approach: Perspectives, Practices, and Possibilities* (Priyam Publications, Dec 2025).
+
+### 🎤 Conference Presentation
+- Presented **"Secure Autonomous Vehicles using AI and IoT"**
+  at **CONVERGE'26 National Conference**, PSGR Krishnammal College for Women.
+
+---
+
+# 📜 Certifications
+
+- Spoken Tutorial – C
+- Spoken Tutorial – C++
+- Spoken Tutorial – Java
+- MongoDB Basics for Students
+- Cognitive Skills Enhancement – II
+- 3D Webinar (Design, Develop, Deploy)
+- Full Stack Java Internship
+- Industrial Exposure
+- Project Completion
+
+---
+
+# 🌐 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/mohamadyousup
+
+💻 GitHub: https://github.com/YOUR_GITHUB_USERNAME
+
+📧 Email: yousfyousuf2652@gmail.com
+
+---
+
+# 🛠️ Technologies & Tools
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+
+---
+
+<p align="center">
+⭐ <b>"Building purposeful software with clean code, modern technologies, and AI-powered development."</b> ⭐
+</p>
