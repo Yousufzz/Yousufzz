@@ -1,5 +1,4 @@
-<img width="1546" height="423" alt="banner" src="https://github.com/user-attachments/assets/c3927c73-c8d6-42fa-a458-59afa03df79d" />
-
+<img width="2239" height="260" alt="ChatGPT Image Jul 19, 2026, 09_33_08 PM" src="https://github.com/user-attachments/assets/9d50482f-2429-4c86-85bf-2cc11015423e" />
 <h1 align="center">Mohamad Yousup S</h1>
 
 <p align="center">
