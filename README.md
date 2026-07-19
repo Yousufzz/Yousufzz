@@ -78,15 +78,6 @@ Data Structures • Object-Oriented Programming • DBMS • Computer Networks �
 
 ---
 
-# 💼 Internship
-
-### Full Stack Java Intern
-**EMGLITZ Technologies**
-
-- Developed web applications using Java, HTML, CSS, and MySQL.
-- Built responsive user interfaces and backend functionalities.
-- Applied Object-Oriented Programming concepts in real-world projects.
-
 ---
 
 # 🏆 Publications & Presentations
