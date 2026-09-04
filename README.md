@@ -51,6 +51,27 @@ Data Structures • Object-Oriented Programming • DBMS • Computer Networks �
 
 # 📂 Featured Projects
 
+## 📌 Pinterest Clone — Full-Stack Visual Discovery Platform
+**Description:** A production-minded Pinterest-style web application that combines a responsive masonry feed with secure backend integration to an external image service. Includes user authentication, saved pins, a themeable Apple-style UI, and an optional Three.js 3D onboarding hero that transitions into the feed.
+
+**Tech:** Node.js, Express, Vanilla JS (or React), Three.js, GSAP, Unsplash API, HTML, CSS, LocalStorage (prototype), Redis (recommended for production)
+
+**Key Features:**
+- Infinite masonry feed with lazy loading and LQIP placeholders
+- Server-side proxy to the Unsplash API (keeps API key secure)
+- Debounced search with paginated results
+- User register/login, saved pins (local + persisted for logged users)
+- Settings page (themes, accent color, grid density, disable 3D intro)
+- Three.js 3D “PIN” hero with GSAP-driven transition (skip & reduced-motion compliant)
+- Download tracking to satisfy image provider requirements
+- Deployment-ready architecture with caching and performance optimizations
+
+**Repo / Demo:**  
+- Repo: `https://github.com/YOUR_GITHUB_USERNAME/pinterest-clone`  
+- Live Demo: `https://pinterest-clone-demo.example.com` *(replace with your actual links)*
+
+---
+
 ## 📌 Interactive Quiz Question Management & Assessment Platform
 
 - Java Full Stack Application
