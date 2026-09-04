@@ -66,9 +66,6 @@ Data Structures • Object-Oriented Programming • DBMS • Computer Networks �
 - Download tracking to satisfy image provider requirements
 - Deployment-ready architecture with caching and performance optimizations
 
-**Repo / Demo:**  
-- Repo: `https://github.com/YOUR_GITHUB_USERNAME/pinterest-clone`  
-- Live Demo: `https://pinterest-clone-demo.example.com` *(replace with your actual links)*
 
 ---
 
